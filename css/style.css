@@ -68,7 +68,9 @@ ul {
 }
 
 #navbar a {
-
+    display: block;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
 }
 
 #main-doc {
