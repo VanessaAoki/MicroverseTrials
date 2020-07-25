@@ -58,12 +58,17 @@ ul {
     display: block;
     padding: 10px 10px 10px 10px;
     text-decoration: none;
+    color: #4d4e53;
+    border-color: #4d4e53;
+    border-width: 1px 0 0 0;
+    border-style: solid;
 }
 
 #main-doc {
     position: absolute;
     margin-left: 290px;
     padding:  10px;
+    
 }
 
 section {
