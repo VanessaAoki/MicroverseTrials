@@ -54,6 +54,12 @@ ul {
     padding-inline-start: 40px;
 }
 
+#main-doc {
+    position: absolute;
+    margin-left: 290px;
+    padding:  10px;
+}
+
 section {
     display: block;
 }
