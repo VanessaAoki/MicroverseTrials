@@ -1,3 +1,16 @@
+html, body {
+    min-width: 290px;
+    color: #4d4e53;
+    background-color: #ffffff;
+    font-family: "Open Sans", Arial, sans-serif;
+    line-height: 1.5;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
 #navbar {
 
     position: fixed;
@@ -58,17 +71,27 @@ section {
     display: block;
 }
 
-html, body {
-    min-width: 290px;
+
+
+section article {
     color: #4d4e53;
-    background-color: #ffffff;
-    font-family: "Open Sans", Arial, sans-serif;
-    line-height: 1.5;
+    margin: 15px;
+    font-size: 0.96em;
 }
 
-body {
+p {
     display: block;
-    margin: 8px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
+
+
+
+
+
+
+
 
 
