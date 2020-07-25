@@ -9,6 +9,7 @@
     border-color: rgba(0, 22, 22, 0.4);
 }
 
+
 header {
     color: black;
     margin: 10px;
@@ -16,6 +17,7 @@ header {
     font-size: 1.8em;
     font-weight: thin;
 }
+
 
 ul {
     display: block;
