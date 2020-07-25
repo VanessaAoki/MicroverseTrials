@@ -115,6 +115,27 @@
         <p>
           With the keyword var. For example,
         </p>
+        <code>
+          var x = 42.
+        </code>
+        <p>
+          By simply assigning it a value. For example, 
+        </p>
+        <code>
+          x = 42.
+        </code>
+        <p>
+          With the keyword let. For example,
+        </p>
+        <code>
+          let y = 13.
+        </code>
+        <p>
+          JavaScript before ECMAScript 2015 does not have block statement scope; rather, a variable declared within a block is local to the function (or global scope) that the block resides within. For example the following code will log 5, because the scope of x is the function (or global context) within which x is declared, not the block, which in this case is an if statement. 
+        </p>
+        <code>
+          if (true) { var x = 5; } console.log(x); // 5
+        </code>
       </section>
 
     </main>
